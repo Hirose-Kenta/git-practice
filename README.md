@@ -7,4 +7,4 @@ no-fast-foward
 
 modify from conflict branch
 
-githubで更新
+githubで更新 (edit by local repo)
