@@ -8,4 +8,4 @@ no-fast-foward
 modify from conflict branch
 
 githubで更新 (edit by local repo)
-
+自分のリモートリポジトリで更新
