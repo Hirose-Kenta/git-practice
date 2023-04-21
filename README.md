@@ -6,3 +6,5 @@ no-fast-foward
 
 
 modify from conflict branch
+
+githubで更新
