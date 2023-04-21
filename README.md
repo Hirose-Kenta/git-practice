@@ -4,4 +4,6 @@ add
 add branch section
 no-fast-foward
 
-modify from main branch
+
+modify from conflict branch
+>>>>>>> conflict
