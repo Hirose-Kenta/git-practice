@@ -6,4 +6,3 @@ no-fast-foward
 
 
 modify from conflict branch
->>>>>>> conflict
